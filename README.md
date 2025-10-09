@@ -52,28 +52,19 @@ Bref, c’est pas un jeu fini, c’est un **projet “technique et artistique br
 
 </p>
 
-## Structure du projet:
-.
-├── include
-└── src
-    ├── gestion_cmd
-    ├── gestion_env
-    ├── gestion_separators
-    └── str_function
-
 ---
 
 ## ⬇️ Téléchargement (version compilée)
 
 <p align="center">
 🔹 **Dernière version prête à l’emploi** :<br>
-[👉 Télécharger mysh (release latest)](https://github.com/Nicolassmn/My-shell/releases/download/latest/mysh)<br>
+[👉 Télécharger mysh (release latest)](https://github.com/Nicolassmn/My-shell/releases/download/latest/myrpg)<br>
 *(exécutable déjà compilé, prêt à être lancé !)*
 </p>
 
 <p align="center">
 Ou cloner le projet depuis GitHub :<br>
-<code>git clone git@github.com:Nicolassmn/My-shell.git</code>
+<code>git clone git@github.com:Nicolassmn/My-isaac.git</code>
 </p>
 
 ---
