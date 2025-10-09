@@ -12,7 +12,7 @@ static void init_window(global_t *glob)
     sfVideoMode mode = sfVideoMode_getDesktopMode();
 
     WINDOW = SRWC(mode, "My RPG", sfClose | sfFullscreen, NULL);
-    sfRenderWindow_setFramerateLimit(WINDOW, 144);
+    sfRenderWindow_setFramerateLimit(WINDOW, 145);
     glob->isfullscreen = true;
     glob->camera = sfView_create();
     glob->clock = sfClock_create();
