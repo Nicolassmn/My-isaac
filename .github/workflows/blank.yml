@@ -24,6 +24,6 @@ jobs:
         with:
           tag_name: latest
           files: |
-            ./mysh
+            ./myrpg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
