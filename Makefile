@@ -77,7 +77,7 @@ $(NAME): $(OBJ)
 	$(CC) $(OBJ) -o $(NAME) $(CFLAGS) $(CSFML)
 
 clean:
-	rm -f *.c~ $(OBJ)
+	rm -f $(OBJ)
 
 fclean: clean
 	rm -f $(NAME)
