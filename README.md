@@ -82,7 +82,7 @@ So it’s not a finished game, it’s a **“tech & art DIY project”** 😅
 
 <p align="center">
 Or clone the project from GitHub :<br>
-<code>git clone git@github.com:Nicolassmn/My-Shell.git</code>
+<code>git clone git@github.com:Nicolassmn/My-isaac.git</code>
 </p>
 
 ---
@@ -161,15 +161,12 @@ Bref, ce n’est pas un jeu fini, c’est un **projet “technique et artistique
 <p align="center">
 🔹 **Dernière version prête à l’emploi** :<br>
 [👉 Télécharger myrpg (release latest)](https://github.com/Nicolassmn/My-Shell/releases/download/latest/myrpg)<br>
-=======
-[👉 Télécharger mysh (release latest)](https://github.com/Nicolassmn/My-shell/releases/download/latest/myrpg)<br>
->>>>>>> fbbf7bdf01ef253c961962de5640c3d3d34009d3
 *(exécutable déjà compilé, prêt à être lancé !)*
 </p>
 
 <p align="center">
 Ou cloner le projet depuis GitHub :<br>
-<code>git clone git@github.com:Nicolassmn/My-Shell.git</code>
+<code>git clone git@github.com:Nicolassmn/My-isaac.git</code>
 </p>
 
 ---
