@@ -78,6 +78,7 @@ This project was mainly a *technical challenge*, built to practice *sprite manag
 ### ⬇️ Download (precompiled version)
 
 <p align="center"> 🔹 <strong>Latest ready-to-use version:</strong><br> <a href="https://github.com/Nicolassmn/My-isaac/releases/download/latest/myrpg">👉 Download myrpg (latest release)</a><br> <em>Precompiled executable — ready to play!</em> </p> <p align="center"> Or clone the repository:<br> <code>git clone git@github.com:Nicolassmn/My-isaac.git</code> </p>
+
 ---
 
 ### 🧪 CI/CD Workflow
@@ -130,3 +131,5 @@ Ce projet était avant tout un *défi technique*, conçu pour pratiquer la *gest
 Chaque push sur la branche <code>main</code> :
 
 <p align="center"> 🔨 Compile automatiquement le projet <br> 🚀 Publie le binaire dans la release “latest” <br> 🧩 Défini dans <code>.github/workflows/build.yml</code> </p>
+
+---
