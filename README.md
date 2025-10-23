@@ -55,10 +55,10 @@ This project was mainly a *technical challenge*, built to practice *sprite manag
 
 ### ⚔️ Gameplay
 
-  🔹 Move around freely in a room-based map
-  🔹 Face enemies with simple attacks and projectiles
-  🔹 Pick up hearts and items to restore HP
-  🔹 Progress through rooms and survive as long as possible
+  🔹 Move around freely in a room-based map  
+  🔹 Face enemies with simple attacks and projectiles  
+  🔹 Pick up hearts and items to restore HP  
+  🔹 Progress through rooms and survive as long as possible  
 
 ---
 
@@ -100,23 +100,23 @@ Ce projet était avant tout un *défi technique*, conçu pour pratiquer la *gest
 
 ### ⚔️ Principe du jeu
 
-🔹 Déplacez-vous librement entre les salles
-🔹 Affrontez des ennemis avec vos attaques et projectiles
-🔹 Récupérez des cœurs et objets pour restaurer vos points de vie
-🔹 Progressez de salle en salle et survivez le plus longtemps possible
+🔹 Déplacez-vous librement entre les salles  
+🔹 Affrontez des ennemis avec vos attaques et projectiles  
+🔹 Récupérez des cœurs et objets pour restaurer vos points de vie  
+🔹 Progressez de salle en salle et survivez le plus longtemps possible  
 
 ---
 
 ### ✨ Fonctionnalités
 
-🔹 Déplacement fluide du personnage
-🔹 Gestion des collisions et murs
-🔹 Système d’ennemis basique
-🔹 Projectiles et attaques
-🔹 Interface rudimentaire et HUD
-🔹 Gestion de la santé et des pickups
-🔹 Petite IA ennemie
-🔹 Gestion des niveaux et génération des salles
+🔹 Déplacement fluide du personnage  
+🔹 Gestion des collisions et murs  
+🔹 Système d’ennemis basique  
+🔹 Projectiles et attaques  
+🔹 Interface rudimentaire et HUD  
+🔹 Gestion de la santé et des pickups  
+🔹 Petite IA ennemie  
+🔹 Gestion des niveaux et génération des salles  
 
 ---
 
