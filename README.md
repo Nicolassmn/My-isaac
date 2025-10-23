@@ -89,7 +89,7 @@ Each push on the <code>main</code> branch:
 
 ---
 
-## 🇫🇷 Français
+## 🇫🇷 Français <a id="FR"></a>
 
 ### 🧠 Présentation
 
